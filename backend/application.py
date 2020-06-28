@@ -3,7 +3,7 @@ from porc import Client
 
 import braintree
 
-braintree.Configuration.configure(braintree.Environment.Sandbox,merchant_id="bmzy35jyg4ky63ny",public_key="zq4xhvc2g4qzbhzx",private_key="24c035ddae636bd41cc793cf0cf205f3")
+braintree.Configuration.configure(braintree.Environment.Sandbox,merchant_id="MERCHANT_ID",public_key="PUBLIC_KEY",private_key="PRIVATE_KEY")
 
 
 

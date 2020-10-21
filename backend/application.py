@@ -7,7 +7,7 @@ braintree.Configuration.configure(braintree.Environment.Sandbox,merchant_id="MER
 
 
 
-API_KEY = '16509990-f7fc-48dc-b128-716c99b65a24'
+API_KEY = 'API_KEY'
 client = Client(API_KEY)
 
 
